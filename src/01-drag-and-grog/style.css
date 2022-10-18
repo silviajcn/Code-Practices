@@ -1,0 +1,47 @@
+.app {
+  position: relative;
+  text-align: center;
+  font-family: sans-serif;
+  margin: 0;
+  width: 100%;
+}
+
+.task-container {
+  /* border: 1px dotted pink; */
+  margin: 0;
+  list-style: none;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 3rem;
+
+  display: inline-flex;
+  flex-direction: column;
+
+  /* Tener el listado en horizontal */
+  /* flex-direction: row; */
+}
+
+.task-item {
+  color: rgb(65, 52, 250);
+  box-shadow: 0px 2px 4px #4a4c4e;
+  border-radius: 5px;
+  padding: 0.3em 0.5em;
+  background-color: whitesmoke;
+  text-align: center;
+  font-weight: bold;
+  margin: 5px;
+  border: 2px solid transparent;
+}
+
+.task-item:focus {
+  outline: none;
+  border: 2px solid #4a9af5;
+}
+
+
+/* ----------- MEDIA QUERIES ----------- */
+@media (max-width: 320px) {
+    .app h1 {
+      margin-top: 60px;
+    }
+}
