@@ -7,7 +7,7 @@ This is a compilation of the different practices that I do in React.js
 ## 📁 Project 1: Drag and Drog
 
 
-### Dependencies for this practice: 
+Dependencies for this practice: 
 
 * ```@hello-pangea/dnd```
 
@@ -38,6 +38,7 @@ This is a compilation of the different practices that I do in React.js
 
 ## 😍 My Code Practices
 
+![img](https://res.cloudinary.com/silviajcn/image/upload/v1666054161/PRACTICAS/Responsive/2_ygzsxi.png)
 
 ## 😎 Author
 
