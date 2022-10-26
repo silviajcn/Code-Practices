@@ -1,84 +1,3 @@
-/* .pie-chart {
-	background:
-		radial-gradient(
-			circle closest-side,
-			#242424 0,
-		#242424 54.9%,
-			transparent 54.9%,
-			transparent 90%,
-			#242424 0
-		),
-		conic-gradient(
-			from 108deg,
-			#4e79a7 0,
-			#4e79a7 3.3%,
-			#f28e2c 0,
-			#f28e2c 6.6%,
-			#e15759 0,
-			#e15759 9.9%,
-			#76b7b2 0,
-			#76b7b2 13.2%,
-			#59a14f 0,
-			#59a14f 16.5%,
-			#edc949 0,
-			#edc949 19.8%,
-			#af7aa1 0,
-			#af7aa1 23.1%,
-			#ff9da7 0,
-			#ff9da7 26.4%,
-			#9c755f 0,
-			#9c755f 29.7%,
-			#bab0ab 0,
-			#bab0ab 33%,
-			#253a50 0,
-			#253a50 36.3%,
-			#954f09 0,
-			#954f09 39.6%,
-			#9d1c1e 0,
-			#9d1c1e 42.9%,
-			#3c726e 0,
-			#3c726e 46.2%,
-			#2a4b25 0,
-			#2a4b25 49.5%,
-			#a68510 0,
-			#a68510 52.8%,
-			#6a405f 0,
-			#6a405f 56.1%,
-			#ff1e35 0,
-			#ff1e35 59.4%,
-			#4d3a2f 0,
-			#4d3a2f 62.7%,
-			#7e6f68 0,
-			#7e6f68 66%,
-			#a1b9d3 0,
-			#a1b9d3 69.3%,
-			#f9cea4 0,
-			#f9cea4 72.6%,
-			#f4c3c4 0,
-			#f4c3c4 75.9%,
-			#cae3e1 0,
-			#cae3e1 79.2%,
-			#a5d09f 0,
-			#a5d09f 82.5%,
-			#f8ebbd 0,
-			#f8ebbd 85.8%,
-			#dfcad9 0,
-			#dfcad9 89.1%,
-			#ffdfe3 0,
-			#ffdfe3 92.4%,
-			#cdb9ad 0,
-			#cdb9ad 95.7%,
-			#e8e5e3 0,
-			#e8e5e3 99%
-	);
-	width: 100%;
-	height: 400px;
-	min-height: 340px;
-	margin: 20px 0 auto;
-	outline: 1px solid #ccc;
-	text-align: center;
-} */
-
 .color-square {
   font-family: sans-serif;
   width: 80px;
@@ -124,8 +43,9 @@
 
 .toaster {
   background: rgb(152, 252, 212);
-  border-bottom: 1px solid #000000;
+  border-bottom: 2px solid #000000;
   font-weight: 600;
   width: 100%;
   margin-top: 50px;
+  box-shadow: none;
 }

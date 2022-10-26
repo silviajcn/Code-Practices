@@ -1,5 +1,6 @@
 import { CopyToClipboard } from 'react-copy-to-clipboard';
 import { Toaster, toast } from 'react-hot-toast';
+import './style.css';
 
 const notify = () => toast('Color copied to clipboard!', {position: 'top-center'});
 

@@ -14,11 +14,19 @@ const initialTasks = [
     },
     {
         id: "003",
-        text: "AWS"
+        text: "Figma"
     },
     {
         id: "004",
         text: "JavaScript"
+    },
+    {
+        id: "005",
+        text: "SQL"
+    },
+    {
+        id: "006",
+        text: "TypeScript"
     }
 ];
 

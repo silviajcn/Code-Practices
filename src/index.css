@@ -3,9 +3,7 @@
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 24px;
-  font-weight: 400;
-
-  
+  font-weight: 400; 
 }
 
 a {
@@ -140,6 +138,7 @@ footer p {
 
 footer a {
   color: #FFFFFF;
+  text-decoration: underline;
 }
 
 footer a:hover {

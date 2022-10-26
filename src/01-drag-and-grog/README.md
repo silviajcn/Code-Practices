@@ -1,6 +1,6 @@
 ## 📁 Project 1: Drag and Drog
 
-![img](https://res.cloudinary.com/silviajcn/image/upload/v1666752118/PRACTICAS/Responsive/2_pbjuq2.png)
+![img](https://res.cloudinary.com/silviajcn/image/upload/v1666825112/PRACTICAS/Responsive/2_jccmkl.png)
 
 Dependencies for this practice: 
 

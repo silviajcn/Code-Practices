@@ -6,7 +6,7 @@ export const practices = [
     },
     {
         id: '002',
-        title: "Render Pallet Color",
+        title: "Render Color Palette",
         url: "/render-color"
     }
 ];

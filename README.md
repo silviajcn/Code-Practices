@@ -7,7 +7,7 @@ This is a compilation of the different practices that I do in React.js
 ## 📁 Projects
 
 1. Drag and Drog
-2. Render Color
+2. Render Color Palette
 
 ## 📌 Global dependencies
 
@@ -32,15 +32,15 @@ This is a compilation of the different practices that I do in React.js
 
 ## 🎈 Usage
 
-* Navigate to http://localhost:3000 on your browser
+* Navigate to http://localhost:5173 on your browser
 
 ## 😍 My Code Practices
 
-![img](https://res.cloudinary.com/silviajcn/image/upload/v1666752116/PRACTICAS/Responsive/1_ewn1va.png)
+![img](https://res.cloudinary.com/silviajcn/image/upload/v1666825109/PRACTICAS/Responsive/1_pr6gxi.png)
 
 ## 😎 Author
 
 * **Silvia C. Navarro**  - [@silviajcn](https://github.com/silviajcn)
-* **Mi portafolio** - [Mi portafolio](https://silviajcn.vercel.app/)
+* **My portfolio** - [My portfolio](https://silviajcn.vercel.app/)
 
     [![Twitter Badge](https://img.shields.io/badge/-@lectoramigrante-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lectoramigrante)](https://twitter.com/lectoramigrante)
