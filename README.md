@@ -6,7 +6,7 @@ This is a compilation of the different practices that I do in React.js
 
 ## 📁 Projects
 
-1. Drag and Drog
+1. Drag and Drop
 2. Render Color Palette
 
 ## 📌 Global dependencies
