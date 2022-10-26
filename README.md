@@ -4,12 +4,10 @@ This is a compilation of the different practices that I do in React.js
 
 ## 🖱️ Visit here:
 
-## 📁 Project 1: Drag and Drog
+## 📁 Projects
 
-
-Dependencies for this practice: 
-
-* ```@hello-pangea/dnd```
+1. Drag and Drog
+2. Render Color
 
 ## 📌 Global dependencies
 
@@ -38,7 +36,7 @@ Dependencies for this practice:
 
 ## 😍 My Code Practices
 
-![img](https://res.cloudinary.com/silviajcn/image/upload/v1666054161/PRACTICAS/Responsive/2_ygzsxi.png)
+![img](https://res.cloudinary.com/silviajcn/image/upload/v1666752116/PRACTICAS/Responsive/1_ewn1va.png)
 
 ## 😎 Author
 
