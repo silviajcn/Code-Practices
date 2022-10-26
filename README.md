@@ -36,7 +36,7 @@ This is a compilation of the different practices that I do in React.js
 
 ## 😍 My Code Practices
 
-![img](https://res.cloudinary.com/silviajcn/image/upload/v1666825109/PRACTICAS/Responsive/1_pr6gxi.png)
+![img](https://res.cloudinary.com/silviajcn/image/upload/v1666828561/PRACTICAS/Responsive/1_vaaddw.png)
 
 ## 😎 Author
 

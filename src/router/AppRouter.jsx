@@ -1,7 +1,7 @@
 import { Routes, Route, Navigate } from 'react-router-dom';
 import { Home } from '../pages/Home';
 import { Footer } from '../components';
-import { DragDrogApp } from '../01-drag-and-grog';
+import { DragDropApp } from '../01-drag-and-drop';
 import { RenderColor } from '../02-render-color';
 
 const AppRouter = () => {
@@ -10,7 +10,7 @@ const AppRouter = () => {
             <Routes>
                 <Route path='/' element={<Home />} />
 
-                <Route path='/drag-drog' element={<DragDrogApp />} />
+                <Route path='/drag-drop' element={<DragDropApp />} />
 
                 <Route path='/render-color' element={<RenderColor />} />
 

@@ -1,8 +1,8 @@
 export const practices = [
     {
         id: '001',
-        title: "Drag and Drog",
-        url: "/drag-drog"
+        title: "Drag and Drop",
+        url: "/drag-drop"
     },
     {
         id: '002',

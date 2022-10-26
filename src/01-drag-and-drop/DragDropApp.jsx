@@ -38,7 +38,7 @@ const reorder = (list, startIndex, endIndex) => {
     return result;
 };
 
-export const DragDrogApp = () => {
+export const DragDropApp = () => {
 
     const [tasks, setTasks] = useState(initialTasks);
 
@@ -66,7 +66,7 @@ export const DragDrogApp = () => {
                 }}
             >
                 <header>
-                    <h1>Drag and Drog</h1>
+                    <h1>Drag and Drop</h1>
                 </header>
 
                 <Droppable
