@@ -2,7 +2,7 @@
 
 This is a compilation of the different practices that I do in React.js
 
-## 🖱️ Visit here:
+## 🖱️ Visit here: http://code-practices.vercel.app/
 
 ## 📁 Projects
 
