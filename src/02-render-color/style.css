@@ -5,6 +5,11 @@
   color: white;
   padding: 20px;
   margin: 10px;
+  border-radius: 5px;
+}
+
+#Light .color-square {
+  border: 1px solid #665f5f65;
 }
 
 .color-square p {
@@ -41,9 +46,23 @@
   }
 }
 
+#Light .color-square:hover {
+  animation-name: link2;
+  animation-duration: 1s;
+  animation-iteration-count: initial;
+}
+
+@keyframes link2 {
+  10%{
+    box-shadow: -1px 1px 15px -4px #a5a0a5;
+  }
+  50%{
+    box-shadow: -1px 1px 15px -3px #a5a0a5;
+  }
+}
+
 .toaster {
   background: rgb(152, 252, 212);
-  border-bottom: 2px solid #000000;
   font-weight: 600;
   width: 100%;
   margin-top: 50px;

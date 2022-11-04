@@ -12,7 +12,7 @@ export const CopyColor = ({name}) => {
                     type="button"
                     onClick={notify} 
                     className="btn-copy-color"
-                    aria-label="button copy color"
+                    aria-label="copy color button"
                 >
                     {name}
                 </div>

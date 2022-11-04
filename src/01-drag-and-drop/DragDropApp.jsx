@@ -1,34 +1,7 @@
 import { useState } from 'react';
 import { DragDropContext, Droppable, Draggable } from '@hello-pangea/dnd';
-import { GoBack } from '../components/GoBack';
+import { initialTasks } from './tasks';
 import './style.css';
-
-const initialTasks = [
-    {
-        id: "001",
-        text: "React.js"
-    },
-    {
-        id: "002",
-        text: "HTML/CSS"
-    },
-    {
-        id: "003",
-        text: "Figma"
-    },
-    {
-        id: "004",
-        text: "JavaScript"
-    },
-    {
-        id: "005",
-        text: "SQL"
-    },
-    {
-        id: "006",
-        text: "TypeScript"
-    }
-];
 
 const reorder = (list, startIndex, endIndex) => {
     const result = [...list];
@@ -44,7 +17,6 @@ export const DragDropApp = () => {
 
     return (
         <div className='app'>
-            <GoBack />
 
             <DragDropContext
                 onDragEnd={(result) => {

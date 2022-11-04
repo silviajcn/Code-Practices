@@ -1,12 +1,10 @@
 import { colors } from './colors';
 import { Color } from './';
-import { GoBack } from '../components/GoBack';
 import './style.css';
 
 export const RenderColor = () => {
     return (
-        <div>
-            <GoBack />
+        <div className='container-render-color'>
 
             <h1>Colors</h1>
 

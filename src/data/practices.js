@@ -8,5 +8,10 @@ export const practices = [
         id: '002',
         title: "Render Color Palette",
         url: "/render-color"
+    },
+    {
+        id: '003',
+        title: "Dark Mode",
+        url: "/dark-mode"
     }
 ];

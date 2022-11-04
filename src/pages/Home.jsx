@@ -3,8 +3,9 @@ import { Link } from 'react-router-dom';
 import { FaHandPointer } from 'react-icons/fa';
 
 export const Home = () => {
+
     return (
-        <>
+        <div className='container-home'>
             <header>
                 <h1>My Code Practices</h1>
             </header>
@@ -21,6 +22,6 @@ export const Home = () => {
                     </div>
                 ))}
             </main>
-        </>
+        </div>
     )
 };

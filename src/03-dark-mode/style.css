@@ -1,0 +1,9 @@
+.container-switch {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+
+.container-title-dark-mode {
+  height: 70vh;
+}
