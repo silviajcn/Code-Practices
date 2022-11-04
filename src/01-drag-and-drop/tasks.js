@@ -1,4 +1,4 @@
-const initialTasks = [
+export const initialTasks = [
     {
         id: "001",
         text: "React.js"
