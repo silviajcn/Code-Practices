@@ -13,5 +13,11 @@ export const practices = [
         id: '003',
         title: "Dark Mode",
         url: "/dark-mode"
+    },
+    {
+        id: '004',
+        title: "NavBar Responsive",
+        url: "/"
     }
+
 ];

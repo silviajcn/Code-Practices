@@ -9,6 +9,7 @@ This is a compilation of the different practices that I do in React.js
 1. Drag and Drop
 2. Render Color Palette
 3. Dark Mode
+4. NavBar Responsive
 
 ## 📌 Global dependencies
 
@@ -37,7 +38,7 @@ This is a compilation of the different practices that I do in React.js
 
 ## 😍 My Code Practices
 
-![img](https://res.cloudinary.com/silviajcn/image/upload/v1667529151/PRACTICAS/Responsive/home_nrndv0.png)
+![img](https://res.cloudinary.com/silviajcn/image/upload/v1668272312/PRACTICAS/Responsive/localhost_5173__ovin3c.png)
 
 ## 😎 Author
 
