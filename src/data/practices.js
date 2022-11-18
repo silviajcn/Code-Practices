@@ -18,6 +18,11 @@ export const practices = [
         id: '004',
         title: "NavBar Responsive",
         url: "/"
+    },
+    {
+        id: '005',
+        title: "Infinite Scroll Animation",
+        url: "/infinite-scroll-animation"
     }
 
 ];
