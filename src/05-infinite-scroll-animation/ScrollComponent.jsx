@@ -15,7 +15,6 @@ export const ScrollComponent = () => {
         <div className='app-infinite-scroll'>
             <header className='header'>
                 <h1>Infinite Scroll Animation</h1>
-                <p>CSS only, content independent, bi-directional, customizable</p>
             </header>
             <div className='tag-list'>
                 {[...new Array(ROWS)].map((_, i) => (

@@ -10,6 +10,7 @@ This is a compilation of the different practices that I do in React.js
 2. Render Color Palette
 3. Dark Mode
 4. NavBar Responsive
+5. Infinite scroll animation
 
 ## 📌 Global dependencies
 
