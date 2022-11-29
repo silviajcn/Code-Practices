@@ -11,6 +11,7 @@ This is a compilation of the different practices that I do in React.js
 3. Dark Mode
 4. NavBar Responsive
 5. Infinite scroll animation
+6. Translator
 
 ## 📌 Global dependencies
 

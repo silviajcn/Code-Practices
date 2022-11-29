@@ -23,7 +23,7 @@ export const NavBar = () => {
 						className="btn-translate"
 					>
 						<img src="https://res.cloudinary.com/silviajcn/image/upload/v1644180124/PRACTICAS/Traductor/united-kingdom_nur5m4.png" alt="United States flag" className='img-banderas' />
-						US
+						EN
 					</button>
 				</div>
 			</div>
