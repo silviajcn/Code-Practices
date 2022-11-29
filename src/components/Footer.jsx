@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import { FormattedMessage } from 'react-intl';
 import { FaAngleUp } from 'react-icons/fa';
 
 export const Footer = () => {
@@ -42,7 +43,14 @@ export const Footer = () => {
                 )}
             </div>
 
-            <p>© 2022, Code Practices By <a href='https://silviajcn.vercel.app/' target='_blank' rel="noreferrer" className='links'>Silvi</a>.</p>
+            <p>
+                © 2022,
+                <FormattedMessage
+                    id="footer.text"
+                    defaultMessage="Home" 
+                />
+                <a href='https://silviajcn.vercel.app/' target='_blank' rel="noreferrer" className='links'>Silvi</a>.
+            </p>
 
         </footer>
     )

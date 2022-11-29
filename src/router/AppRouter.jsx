@@ -6,6 +6,7 @@ import { RenderColor } from '../02-render-color';
 import { DarkMode } from '../03-dark-mode/DarkMode';
 import { NavBar } from '../04-navbar-responsive';
 import { ScrollComponent } from '../05-infinite-scroll-animation';
+import { Translator } from '../06-translator';
 
 const AppRouter = () => {
     return (
@@ -22,6 +23,8 @@ const AppRouter = () => {
                 <Route path='/dark-mode' element={<DarkMode />} />
 
                 <Route path='/infinite-scroll-animation' element={<ScrollComponent />} />
+
+                <Route path='/translator' element={<Translator />} />
 
                 <Route path="*" element={<Navigate to="/" />} />
             </Routes>

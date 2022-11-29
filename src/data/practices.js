@@ -23,6 +23,10 @@ export const practices = [
         id: '005',
         title: "Infinite Scroll Animation",
         url: "/infinite-scroll-animation"
+    },
+    {
+        id: '006',
+        title: "Translator",
+        url: "/translator"
     }
-
 ];

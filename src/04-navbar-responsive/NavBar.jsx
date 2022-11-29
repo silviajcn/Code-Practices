@@ -3,6 +3,7 @@ import {
     FaBars,
     FaTimes
 } from 'react-icons/fa';
+import { FormattedMessage } from 'react-intl';
 import { IconContext } from 'react-icons';
 import './styles.css';
 import { Link } from 'react-router-dom';
@@ -19,7 +20,12 @@ export const NavBar = () => {
                 <IconContext.Provider value = {{style: {fontSize: "2em"}}}>
 
                 <div className='link-home'>
-                    <Link to="/">Home</Link>
+                    <Link to="/">
+                        <FormattedMessage
+                            id="nav.item"
+                            defaultMessage="Home" 
+                        />
+                    </Link>
                 </div>
                 
                 <div className='link-home btn-switch-navbar'>

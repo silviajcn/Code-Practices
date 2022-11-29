@@ -2,15 +2,20 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { BrowserRouter } from 'react-router-dom';
 import { ThemeContextProvider } from './03-dark-mode/context/ThemeContext';
+import { LanguageProvider } from './06-translator/context/LanguageContext';
 import App from './App';
 import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <ThemeContextProvider>
-      <BrowserRouter>
-        <App />
-      </BrowserRouter>
-    </ThemeContextProvider>
+    <LanguageProvider>
+      <ThemeContextProvider>
+      
+        <BrowserRouter>
+          <App />
+        </BrowserRouter>
+      
+      </ThemeContextProvider>
+    </LanguageProvider>  
   </React.StrictMode>
 )

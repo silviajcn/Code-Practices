@@ -1,0 +1,19 @@
+{
+    "translator.title": "Translator",
+    "app.title": "My Code Practices",
+
+    "nav.item": "Home",
+	"footer.text": " Code Practices By ",
+
+    "practice1.title": "Drag and Drop",
+    "practice2.title": "Colors",
+    "practice3.title": "Dark mode",
+    "practice5.title": "Infinite Scroll Animation",
+
+    "items.text1": "It is an open source Javascript library designed to create user interfaces to facilitate the development of single page applications.",
+    "items.text2": "Hypertext Markup Language is the code used to structure and display a web page and its content.",
+    "items.text3": "It is a vector graphics editor and prototyping tool, primarily web-based, with additional offline features enabled by desktop applications on macOS and Windows.",
+    "items.text4": "It is an interpreted programming language, dialect of the ECMAScript standard. It is defined as object-oriented, prototype-based, imperative, weakly-typed, and dynamic.",
+    "items.text5": "It is a computer language for working with data sets and the relationships between them.",
+    "items.text6": "It is a free and open source programming language developed and maintained by Microsoft. It's a superset of JavaScript, essentially adding static types and class-based objects."
+}

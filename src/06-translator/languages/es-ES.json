@@ -1,0 +1,19 @@
+{
+    "translator.title": "Traductor",
+    "app.title": "Mis practicas de código",
+
+    "nav.item": "Inicio",
+	"footer.text": " Practicas de código por ",
+
+    "practice1.title": "Drag and Drop",
+    "practice2.title": "Colores",
+    "practice3.title": "Modo oscuro",
+    "practice5.title": "Scroll infinito (animación)",
+
+    "items.text1": "Es una biblioteca Javascript de código abierto diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página.",
+    "items.text2": "El Lenguaje de Marcado de Hipertexto es el código que se utiliza para estructurar y desplegar una página web y sus contenidos.",
+    "items.text3": "Es un editor de gráficos vectorial y una herramienta de generación de prototipos, principalmente basada en la web, con características off-line adicionales habilitadas por aplicaciones de escritorio en macOS y Windows.",
+    "items.text4": "Es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos, basado en prototipos, imperativo, débilmente tipado y dinámico.",
+    "items.text5": "Es un lenguaje de computación para trabajar con conjuntos de datos y las relaciones entre ellos.",
+    "items.text6": "Es un lenguaje de programación libre y de código abierto desarrollado y mantenido por Microsoft. Es un superconjunto de JavaScript, que esencialmente añade tipos estáticos y objetos basados en clases."
+}
